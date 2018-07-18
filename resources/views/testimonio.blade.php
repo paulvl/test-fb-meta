@@ -14,7 +14,7 @@
 	<meta property="og:image:height "      content="800" />
 </head>
 <body>
-	<img src="{{ asset('img/testimonio.png') }}" alt="">
+	<img src="{{ asset('img/testimonio2.png') }}" alt="">
 	<script>
 		console.log('aca');
 	</script>
