@@ -16,7 +16,7 @@
 <body>
 	<img src="{{ asset('img/testimonio2.png') }}" alt="">
 	<script>
-		console.log('aca');
+		window.location.replace("http://www.vmcsubastas.com/replay.html?sb=17360&key=e2ba7387b7e0c27a2a53e0e10d5f4baa");
 	</script>
 </body>
 </html>
