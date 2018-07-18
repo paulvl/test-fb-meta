@@ -9,7 +9,7 @@
 	<meta property="og:type"               content="article" />
 	<meta property="og:title"              content="Toyota Yaris 2015" />
 	<meta property="og:description"        content="Mira el replay de esta increible subasta" />
-	<meta property="og:image"              content="{{ asset('img/testimonio.png') }}" />
+	<meta property="og:image"              content="{{ asset('img/testimonio2.png') }}" />
 	<meta property="og:image:width"        content="800" />
 	<meta property="og:image:height "      content="800" />
 </head>
