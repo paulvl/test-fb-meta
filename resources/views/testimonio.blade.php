@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Toyota Yaris 2015</title>
-	<meta property="fb:app_id"             content="504283126436516" />
+	<meta property="og:fb:app_id"             content="504283126436516" />
 	<meta property="og:url"                content="{{ url()->current() }}" />
 	<meta property="og:type"               content="article" />
 	<meta property="og:title"              content="Toyota Yaris 2015" />
